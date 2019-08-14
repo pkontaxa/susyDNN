@@ -1,4 +1,4 @@
-########### Instructions on how to use HTCondor for parallelization of the code that writes the DNN output to the original trees ###############
+# Instructions on how to use HTCondor for parallelization of the code that writes the DNN output to the original trees (working on lxplus)
 
 1) Modifications for Friends_DNN.py: Change the "workarea" to point to your "susyDNN" directory and "exearea" to point to your "HTCondor" directory
 
